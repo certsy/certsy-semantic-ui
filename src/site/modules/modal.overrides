@@ -1,0 +1,8 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+.ui.modal {
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+}

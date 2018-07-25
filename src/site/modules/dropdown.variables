@@ -1,0 +1,8 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@itemFontSize: 1em;
+@selectionBorderRadius: 0.75em;
+@selectionBorder: 2px solid #EEEEEE;
+@menuBorderWidth: 2px;

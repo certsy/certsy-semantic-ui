@@ -1,0 +1,11 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@titleFont: @pageFont;
+@styledTitleFontWeight: 400;
+@styledBoxShadow: none;
+@titleFontSize: 1.25em;
+@styledTitleBorder: none;
+@styledTitlePadding: 0.75em 0em;
+@styledContentPadding: 1em 1em 1.5em;

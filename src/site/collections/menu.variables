@@ -1,0 +1,6 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@secondaryItemPadding: @relativeMedium @relativeMedium;
+@secondaryVerticalItemBorderRadius: 2em;

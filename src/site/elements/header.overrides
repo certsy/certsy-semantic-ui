@@ -1,0 +1,7 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+.ui.header .sub.header {
+  font-family: @pageFont;
+}

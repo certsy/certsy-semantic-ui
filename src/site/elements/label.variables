@@ -1,0 +1,6 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@fontWeight: 500;
+@borderRadius: 0.75em;
