@@ -1,0 +1,9 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@fontWeight: 500;
+@fontFamily: @pageFont;
+@textTransform: uppercase;
+@borderRadius: 5em;
+@horizontalPadding: 2em;

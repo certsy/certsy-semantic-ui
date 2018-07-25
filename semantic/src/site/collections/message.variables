@@ -1,0 +1,11 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@background: white !important;
+@borderWidth: 2px;
+@headerFont: @pageFont;
+@headerFontWeight: 500;
+@verticalPadding: 1.5em;
+@horizontalPadding: 1.5em;
+@verticalMargin: 1.5em;

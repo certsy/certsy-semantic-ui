@@ -1,0 +1,7 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+@inputBorderRadius: 0.75em;
+@inputBorder: 2px solid #EEEEEE;
+@labelFontWeight: 500;
+@rowDistance: 2em;
