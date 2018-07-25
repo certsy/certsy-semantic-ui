@@ -1,7 +1,0 @@
-/*******************************
-        User Overrides
-*******************************/
-
-.ui.accordion .title:not(.ui) {
-  border-bottom: 2px solid #EEEEEE;
-}
