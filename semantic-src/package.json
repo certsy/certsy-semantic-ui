@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/certsy/certsy-semantic-ui#readme",
   "dependencies": {
-    "semantic-ui": "2.3.0"
+    "semantic-ui": "^2.4.2"
   },
   "devDependencies": {
     "gulp": "^3.9.1"
@@ -26,6 +26,9 @@
   "resolutions": {
     "lodash": ">=4.17.13",
     "lodash.template": ">=4.5.0",
-    "lodash.merge": ">=4.6.2"
+    "lodash.merge": ">=4.6.2",
+    "minimatch": ">=3.0.2",
+    "braces": ">=2.3.1",
+    "diff": ">=3.5.0"
   }
 }
